@@ -1,0 +1,19 @@
+div{
+    margin: 50px;
+}
+a{
+    background-color:azure;
+    margin: 50px;
+}
+body{
+    background-color: beige;
+}
+h1{
+    color: brown;
+}
+h2{
+color:firebrick;
+}
+.image{
+    border-radius: 8px;
+}
